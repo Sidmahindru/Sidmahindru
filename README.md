@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">I Love Math's 📐 , Data Science 📝, Programming💻 , ML</h3>
+<h3 align="center">I Love Math's 📐 , Data Engineering 📝, Programming💻 </h3>
 
-- 🔭 I’m currently a working as an Intern at **Data Glacier**
+- 🔭 I’m currently a working as a Data Engineer at **Scotiabank**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Engineering or Cloud computing Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sidmahindru](https://github.com/Sidmahindru)
 
